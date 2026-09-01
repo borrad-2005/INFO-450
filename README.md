@@ -1,0 +1,51 @@
+# INFO 450
+
+This repository contains my coursework, assignments, and projects for **INFO 450**.
+
+## About This Repository
+
+The purpose of this repository is to organize and document the work completed throughout the course. It may include Python files, Jupyter Notebooks, datasets, class exercises, homework assignments, and other course-related materials.
+
+## Course Topics
+
+Topics covered in this course may include:
+
+* Python programming
+* Data structures
+* Strings and lists
+* Dictionaries
+* Data analysis
+* APIs
+* Data cleaning and manipulation
+* Jupyter Notebooks
+* Git and GitHub
+
+## Repository Structure
+
+Files will be organized by assignment, project, or topic when possible.
+
+Example:
+
+```text
+INFO-450/
+│
+├── Homework-1/
+├── Homework-2/
+├── Homework-3/
+├── Projects/
+├── Data/
+└── README.md
+```
+
+## Tools Used
+
+* Python
+* Jupyter Notebook / Google Colab
+* Git
+* GitHub
+
+## Author
+
+**Deeksha Borra**
+Virginia Commonwealth University
+Finance & Information Systems
