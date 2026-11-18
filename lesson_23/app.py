@@ -1,17 +1,3 @@
-+1 (571) 732-8923:
-	i know
-	but still
-	everyone’s quiet 
-	i wanna die
-
-Nihar Reddy Borra:
-	It’s okay don’t overthink it’s a quick Pres 
-	And it’s only a check in 
-	It’s not gonna be graded heavily 
-	He lit just wants to see that you’ve been working on it 
-	And also they added the slide before u presented so nothing happened everything fine 
-
-+1 (571) 732-8923:
 	import pandas as pd
 import plotly.express as px
 import streamlit as st
