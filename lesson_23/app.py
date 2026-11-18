@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Page config
-st.set_page_config(page_title="City Sales Performance Dashboard", layout="wide")
+st.set_page_config(page_title="City Sales Performance Dashboard by Deeksha", layout="wide")
 
 st.title("📊 City Sales Performance Dashboard")
 st.write(
